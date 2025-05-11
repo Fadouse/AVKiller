@@ -62,9 +62,8 @@ AVKiller operates by:
 ## Build Instructions
 
 1. Clone this repository
-2. Open in Visual Studio (or your preferred C++ compiler)
-3. Build as a Win32 Console Application
-4. Run with Administrator privileges
+2. Open in Visual Studio
+3. Run with Administrator privileges
 
 ## Security Notice
 
