@@ -78,4 +78,4 @@ This software is provided for educational purposes only. The author is not respo
 
 ## License
 
-[MIT License](LICENSE)
+[AGPL3.0 License](LICENSE)
